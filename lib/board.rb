@@ -1,7 +1,7 @@
 # Define the variable board below.
-row = [" ", " ", " "]
-row [0]
-row [1]
-row [2]
+board = [" ", " ", " "]
+board[0]
+board[1]
+board[2]
 
-row [1] = x 
+board[1] = x 
